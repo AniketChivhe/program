@@ -1,0 +1,10 @@
+#sudo code for sum of n natural numbers 
+variable sum =0, int n
+for loop
+for(i=1,i<n,i++)
+{
+sum=sum+i;
+}
+
+if n=5
+then we get in output sum
